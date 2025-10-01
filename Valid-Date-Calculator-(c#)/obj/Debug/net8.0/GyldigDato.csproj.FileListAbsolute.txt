@@ -1,0 +1,15 @@
+/home/nicklas/Projects/Personal/Learning-Projects-/c#/Valid-Date-Calculator-(c#)/bin/Debug/net8.0/GyldigDato
+/home/nicklas/Projects/Personal/Learning-Projects-/c#/Valid-Date-Calculator-(c#)/bin/Debug/net8.0/GyldigDato.deps.json
+/home/nicklas/Projects/Personal/Learning-Projects-/c#/Valid-Date-Calculator-(c#)/bin/Debug/net8.0/GyldigDato.runtimeconfig.json
+/home/nicklas/Projects/Personal/Learning-Projects-/c#/Valid-Date-Calculator-(c#)/bin/Debug/net8.0/GyldigDato.dll
+/home/nicklas/Projects/Personal/Learning-Projects-/c#/Valid-Date-Calculator-(c#)/bin/Debug/net8.0/GyldigDato.pdb
+/home/nicklas/Projects/Personal/Learning-Projects-/c#/Valid-Date-Calculator-(c#)/obj/Debug/net8.0/GyldigDato.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicklas/Projects/Personal/Learning-Projects-/c#/Valid-Date-Calculator-(c#)/obj/Debug/net8.0/GyldigDato.AssemblyInfoInputs.cache
+/home/nicklas/Projects/Personal/Learning-Projects-/c#/Valid-Date-Calculator-(c#)/obj/Debug/net8.0/GyldigDato.AssemblyInfo.cs
+/home/nicklas/Projects/Personal/Learning-Projects-/c#/Valid-Date-Calculator-(c#)/obj/Debug/net8.0/GyldigDato.csproj.CoreCompileInputs.cache
+/home/nicklas/Projects/Personal/Learning-Projects-/c#/Valid-Date-Calculator-(c#)/obj/Debug/net8.0/GyldigDato.sourcelink.json
+/home/nicklas/Projects/Personal/Learning-Projects-/c#/Valid-Date-Calculator-(c#)/obj/Debug/net8.0/GyldigDato.dll
+/home/nicklas/Projects/Personal/Learning-Projects-/c#/Valid-Date-Calculator-(c#)/obj/Debug/net8.0/refint/GyldigDato.dll
+/home/nicklas/Projects/Personal/Learning-Projects-/c#/Valid-Date-Calculator-(c#)/obj/Debug/net8.0/GyldigDato.pdb
+/home/nicklas/Projects/Personal/Learning-Projects-/c#/Valid-Date-Calculator-(c#)/obj/Debug/net8.0/GyldigDato.genruntimeconfig.cache
+/home/nicklas/Projects/Personal/Learning-Projects-/c#/Valid-Date-Calculator-(c#)/obj/Debug/net8.0/ref/GyldigDato.dll

@@ -1,0 +1,14 @@
+/home/nicklas/MyProjects/Øvelse-10/obj/Debug/net9.0/Øvelse-10.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicklas/MyProjects/Øvelse-10/obj/Debug/net9.0/Øvelse-10.AssemblyInfoInputs.cache
+/home/nicklas/MyProjects/Øvelse-10/obj/Debug/net9.0/Øvelse-10.AssemblyInfo.cs
+/home/nicklas/MyProjects/Øvelse-10/obj/Debug/net9.0/Øvelse-10.csproj.CoreCompileInputs.cache
+/home/nicklas/MyProjects/Øvelse-10/bin/Debug/net9.0/Øvelse-10
+/home/nicklas/MyProjects/Øvelse-10/bin/Debug/net9.0/Øvelse-10.deps.json
+/home/nicklas/MyProjects/Øvelse-10/bin/Debug/net9.0/Øvelse-10.runtimeconfig.json
+/home/nicklas/MyProjects/Øvelse-10/bin/Debug/net9.0/Øvelse-10.dll
+/home/nicklas/MyProjects/Øvelse-10/bin/Debug/net9.0/Øvelse-10.pdb
+/home/nicklas/MyProjects/Øvelse-10/obj/Debug/net9.0/Øvelse-10.dll
+/home/nicklas/MyProjects/Øvelse-10/obj/Debug/net9.0/refint/Øvelse-10.dll
+/home/nicklas/MyProjects/Øvelse-10/obj/Debug/net9.0/Øvelse-10.pdb
+/home/nicklas/MyProjects/Øvelse-10/obj/Debug/net9.0/Øvelse-10.genruntimeconfig.cache
+/home/nicklas/MyProjects/Øvelse-10/obj/Debug/net9.0/ref/Øvelse-10.dll

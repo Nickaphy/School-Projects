@@ -1,0 +1,21 @@
+/home/nicklasdahlchristoffersen/Dropbox/Skole opgaver/Reciept/bin/Debug/net8.0/Reciept
+/home/nicklasdahlchristoffersen/Dropbox/Skole opgaver/Reciept/bin/Debug/net8.0/Reciept.deps.json
+/home/nicklasdahlchristoffersen/Dropbox/Skole opgaver/Reciept/bin/Debug/net8.0/Reciept.runtimeconfig.json
+/home/nicklasdahlchristoffersen/Dropbox/Skole opgaver/Reciept/bin/Debug/net8.0/Reciept.dll
+/home/nicklasdahlchristoffersen/Dropbox/Skole opgaver/Reciept/bin/Debug/net8.0/Reciept.pdb
+/home/nicklasdahlchristoffersen/Dropbox/Skole opgaver/Reciept/obj/Debug/net8.0/Reciept.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicklasdahlchristoffersen/Dropbox/Skole opgaver/Reciept/obj/Debug/net8.0/Reciept.AssemblyInfoInputs.cache
+/home/nicklasdahlchristoffersen/Dropbox/Skole opgaver/Reciept/obj/Debug/net8.0/Reciept.AssemblyInfo.cs
+/home/nicklasdahlchristoffersen/Dropbox/Skole opgaver/Reciept/obj/Debug/net8.0/Reciept.csproj.CoreCompileInputs.cache
+/home/nicklasdahlchristoffersen/Dropbox/Skole opgaver/Reciept/obj/Debug/net8.0/Reciept.dll
+/home/nicklasdahlchristoffersen/Dropbox/Skole opgaver/Reciept/obj/Debug/net8.0/refint/Reciept.dll
+/home/nicklasdahlchristoffersen/Dropbox/Skole opgaver/Reciept/obj/Debug/net8.0/Reciept.pdb
+/home/nicklasdahlchristoffersen/Dropbox/Skole opgaver/Reciept/obj/Debug/net8.0/Reciept.genruntimeconfig.cache
+/home/nicklasdahlchristoffersen/Dropbox/Skole opgaver/Reciept/obj/Debug/net8.0/ref/Reciept.dll
+/home/nicklas/MyProjects/Reciept-Maker-(c#)/obj/Debug/net8.0/Reciept.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicklas/MyProjects/Reciept-Maker-(c#)/obj/Debug/net8.0/Reciept.AssemblyInfoInputs.cache
+/home/nicklas/MyProjects/Reciept-Maker-(c#)/obj/Debug/net8.0/Reciept.AssemblyInfo.cs
+/home/nicklas/MyProjects/Reciept-Maker-(c#)/obj/Debug/net8.0/Reciept.csproj.CoreCompileInputs.cache
+/home/nicklas/MyProjects/Reciept-Maker-(c#)/obj/Debug/net8.0/Reciept.dll
+/home/nicklas/MyProjects/Reciept-Maker-(c#)/obj/Debug/net8.0/refint/Reciept.dll
+/home/nicklas/MyProjects/Reciept-Maker-(c#)/obj/Debug/net8.0/Reciept.pdb

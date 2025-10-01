@@ -1,0 +1,14 @@
+/home/nicklas/MyProjects/SubString-DatoKonverter/bin/Debug/net9.0/SubString-DatoKonverter
+/home/nicklas/MyProjects/SubString-DatoKonverter/bin/Debug/net9.0/SubString-DatoKonverter.deps.json
+/home/nicklas/MyProjects/SubString-DatoKonverter/bin/Debug/net9.0/SubString-DatoKonverter.runtimeconfig.json
+/home/nicklas/MyProjects/SubString-DatoKonverter/bin/Debug/net9.0/SubString-DatoKonverter.dll
+/home/nicklas/MyProjects/SubString-DatoKonverter/bin/Debug/net9.0/SubString-DatoKonverter.pdb
+/home/nicklas/MyProjects/SubString-DatoKonverter/obj/Debug/net9.0/SubString-DatoKonverter.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicklas/MyProjects/SubString-DatoKonverter/obj/Debug/net9.0/SubString-DatoKonverter.AssemblyInfoInputs.cache
+/home/nicklas/MyProjects/SubString-DatoKonverter/obj/Debug/net9.0/SubString-DatoKonverter.AssemblyInfo.cs
+/home/nicklas/MyProjects/SubString-DatoKonverter/obj/Debug/net9.0/SubString-DatoKonverter.csproj.CoreCompileInputs.cache
+/home/nicklas/MyProjects/SubString-DatoKonverter/obj/Debug/net9.0/SubString-DatoKonverter.dll
+/home/nicklas/MyProjects/SubString-DatoKonverter/obj/Debug/net9.0/refint/SubString-DatoKonverter.dll
+/home/nicklas/MyProjects/SubString-DatoKonverter/obj/Debug/net9.0/SubString-DatoKonverter.pdb
+/home/nicklas/MyProjects/SubString-DatoKonverter/obj/Debug/net9.0/SubString-DatoKonverter.genruntimeconfig.cache
+/home/nicklas/MyProjects/SubString-DatoKonverter/obj/Debug/net9.0/ref/SubString-DatoKonverter.dll

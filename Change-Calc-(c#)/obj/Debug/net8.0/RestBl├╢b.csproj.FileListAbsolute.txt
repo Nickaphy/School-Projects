@@ -1,0 +1,14 @@
+/home/nicklas/MyProjects/Change-Calc-(c#)/bin/Debug/net8.0/RestBl├╢b
+/home/nicklas/MyProjects/Change-Calc-(c#)/bin/Debug/net8.0/RestBl├╢b.deps.json
+/home/nicklas/MyProjects/Change-Calc-(c#)/bin/Debug/net8.0/RestBl├╢b.runtimeconfig.json
+/home/nicklas/MyProjects/Change-Calc-(c#)/bin/Debug/net8.0/RestBl├╢b.dll
+/home/nicklas/MyProjects/Change-Calc-(c#)/bin/Debug/net8.0/RestBl├╢b.pdb
+/home/nicklas/MyProjects/Change-Calc-(c#)/obj/Debug/net8.0/RestBl├╢b.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicklas/MyProjects/Change-Calc-(c#)/obj/Debug/net8.0/RestBl├╢b.AssemblyInfoInputs.cache
+/home/nicklas/MyProjects/Change-Calc-(c#)/obj/Debug/net8.0/RestBl├╢b.AssemblyInfo.cs
+/home/nicklas/MyProjects/Change-Calc-(c#)/obj/Debug/net8.0/RestBl├╢b.csproj.CoreCompileInputs.cache
+/home/nicklas/MyProjects/Change-Calc-(c#)/obj/Debug/net8.0/RestBl├╢b.dll
+/home/nicklas/MyProjects/Change-Calc-(c#)/obj/Debug/net8.0/refint/RestBl├╢b.dll
+/home/nicklas/MyProjects/Change-Calc-(c#)/obj/Debug/net8.0/RestBl├╢b.pdb
+/home/nicklas/MyProjects/Change-Calc-(c#)/obj/Debug/net8.0/RestBl├╢b.genruntimeconfig.cache
+/home/nicklas/MyProjects/Change-Calc-(c#)/obj/Debug/net8.0/ref/RestBl├╢b.dll

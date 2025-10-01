@@ -1,0 +1,42 @@
+C:/Users/nickd/Desktop/RestBlöb/obj/Debug/net9.0/RestBlöb.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/nickd/Desktop/RestBlöb/obj/Debug/net9.0/RestBlöb.AssemblyInfoInputs.cache
+C:/Users/nickd/Desktop/RestBlöb/obj/Debug/net9.0/RestBlöb.AssemblyInfo.cs
+C:/Users/nickd/Desktop/RestBlöb/obj/Debug/net9.0/RestBlöb.csproj.CoreCompileInputs.cache
+C:/Users/nickd/Desktop/RestBlöb/bin/Debug/net9.0/RestBlöb.exe
+C:/Users/nickd/Desktop/RestBlöb/bin/Debug/net9.0/RestBlöb.deps.json
+C:/Users/nickd/Desktop/RestBlöb/bin/Debug/net9.0/RestBlöb.runtimeconfig.json
+C:/Users/nickd/Desktop/RestBlöb/bin/Debug/net9.0/RestBlöb.dll
+C:/Users/nickd/Desktop/RestBlöb/bin/Debug/net9.0/RestBlöb.pdb
+C:/Users/nickd/Desktop/RestBlöb/obj/Debug/net9.0/RestBlöb.dll
+C:/Users/nickd/Desktop/RestBlöb/obj/Debug/net9.0/refint/RestBlöb.dll
+C:/Users/nickd/Desktop/RestBlöb/obj/Debug/net9.0/RestBlöb.pdb
+C:/Users/nickd/Desktop/RestBlöb/obj/Debug/net9.0/RestBlöb.genruntimeconfig.cache
+C:/Users/nickd/Desktop/RestBlöb/obj/Debug/net9.0/ref/RestBlöb.dll
+C:/Users/nickd/Desktop/Skole opgaver/RestBeløb/bin/Debug/net9.0/RestBlöb.exe
+C:/Users/nickd/Desktop/Skole opgaver/RestBeløb/bin/Debug/net9.0/RestBlöb.deps.json
+C:/Users/nickd/Desktop/Skole opgaver/RestBeløb/bin/Debug/net9.0/RestBlöb.runtimeconfig.json
+C:/Users/nickd/Desktop/Skole opgaver/RestBeløb/bin/Debug/net9.0/RestBlöb.dll
+C:/Users/nickd/Desktop/Skole opgaver/RestBeløb/bin/Debug/net9.0/RestBlöb.pdb
+C:/Users/nickd/Desktop/Skole opgaver/RestBeløb/obj/Debug/net9.0/RestBlöb.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/nickd/Desktop/Skole opgaver/RestBeløb/obj/Debug/net9.0/RestBlöb.AssemblyInfoInputs.cache
+C:/Users/nickd/Desktop/Skole opgaver/RestBeløb/obj/Debug/net9.0/RestBlöb.AssemblyInfo.cs
+C:/Users/nickd/Desktop/Skole opgaver/RestBeløb/obj/Debug/net9.0/RestBlöb.csproj.CoreCompileInputs.cache
+C:/Users/nickd/Desktop/Skole opgaver/RestBeløb/obj/Debug/net9.0/RestBlöb.dll
+C:/Users/nickd/Desktop/Skole opgaver/RestBeløb/obj/Debug/net9.0/refint/RestBlöb.dll
+C:/Users/nickd/Desktop/Skole opgaver/RestBeløb/obj/Debug/net9.0/RestBlöb.pdb
+C:/Users/nickd/Desktop/Skole opgaver/RestBeløb/obj/Debug/net9.0/RestBlöb.genruntimeconfig.cache
+C:/Users/nickd/Desktop/Skole opgaver/RestBeløb/obj/Debug/net9.0/ref/RestBlöb.dll
+/home/nicklas/MyProjects/Change-Calc-(c#)/bin/Debug/net9.0/RestBl├╢b
+/home/nicklas/MyProjects/Change-Calc-(c#)/bin/Debug/net9.0/RestBl├╢b.deps.json
+/home/nicklas/MyProjects/Change-Calc-(c#)/bin/Debug/net9.0/RestBl├╢b.runtimeconfig.json
+/home/nicklas/MyProjects/Change-Calc-(c#)/bin/Debug/net9.0/RestBl├╢b.dll
+/home/nicklas/MyProjects/Change-Calc-(c#)/bin/Debug/net9.0/RestBl├╢b.pdb
+/home/nicklas/MyProjects/Change-Calc-(c#)/obj/Debug/net9.0/RestBl├╢b.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicklas/MyProjects/Change-Calc-(c#)/obj/Debug/net9.0/RestBl├╢b.AssemblyInfoInputs.cache
+/home/nicklas/MyProjects/Change-Calc-(c#)/obj/Debug/net9.0/RestBl├╢b.AssemblyInfo.cs
+/home/nicklas/MyProjects/Change-Calc-(c#)/obj/Debug/net9.0/RestBl├╢b.csproj.CoreCompileInputs.cache
+/home/nicklas/MyProjects/Change-Calc-(c#)/obj/Debug/net9.0/RestBl├╢b.dll
+/home/nicklas/MyProjects/Change-Calc-(c#)/obj/Debug/net9.0/refint/RestBl├╢b.dll
+/home/nicklas/MyProjects/Change-Calc-(c#)/obj/Debug/net9.0/RestBl├╢b.pdb
+/home/nicklas/MyProjects/Change-Calc-(c#)/obj/Debug/net9.0/RestBl├╢b.genruntimeconfig.cache
+/home/nicklas/MyProjects/Change-Calc-(c#)/obj/Debug/net9.0/ref/RestBl├╢b.dll

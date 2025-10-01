@@ -1,0 +1,14 @@
+/home/nicklas/MyProjects/Bmi-Calculator-(c#)/obj/Debug/net8.0/BMI.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicklas/MyProjects/Bmi-Calculator-(c#)/obj/Debug/net8.0/BMI.AssemblyInfoInputs.cache
+/home/nicklas/MyProjects/Bmi-Calculator-(c#)/obj/Debug/net8.0/BMI.AssemblyInfo.cs
+/home/nicklas/MyProjects/Bmi-Calculator-(c#)/obj/Debug/net8.0/BMI.csproj.CoreCompileInputs.cache
+/home/nicklas/MyProjects/Bmi-Calculator-(c#)/bin/Debug/net8.0/BMI
+/home/nicklas/MyProjects/Bmi-Calculator-(c#)/bin/Debug/net8.0/BMI.deps.json
+/home/nicklas/MyProjects/Bmi-Calculator-(c#)/bin/Debug/net8.0/BMI.runtimeconfig.json
+/home/nicklas/MyProjects/Bmi-Calculator-(c#)/bin/Debug/net8.0/BMI.dll
+/home/nicklas/MyProjects/Bmi-Calculator-(c#)/bin/Debug/net8.0/BMI.pdb
+/home/nicklas/MyProjects/Bmi-Calculator-(c#)/obj/Debug/net8.0/BMI.dll
+/home/nicklas/MyProjects/Bmi-Calculator-(c#)/obj/Debug/net8.0/refint/BMI.dll
+/home/nicklas/MyProjects/Bmi-Calculator-(c#)/obj/Debug/net8.0/BMI.pdb
+/home/nicklas/MyProjects/Bmi-Calculator-(c#)/obj/Debug/net8.0/BMI.genruntimeconfig.cache
+/home/nicklas/MyProjects/Bmi-Calculator-(c#)/obj/Debug/net8.0/ref/BMI.dll
