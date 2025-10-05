@@ -12,3 +12,4 @@
 /home/nicklas/MyProjects/Øvelse-10/obj/Debug/net9.0/Øvelse-10.pdb
 /home/nicklas/MyProjects/Øvelse-10/obj/Debug/net9.0/Øvelse-10.genruntimeconfig.cache
 /home/nicklas/MyProjects/Øvelse-10/obj/Debug/net9.0/ref/Øvelse-10.dll
+/home/nicklas/MyProjects/Øvelse-10/obj/Debug/net9.0/Øvelse-10.sourcelink.json

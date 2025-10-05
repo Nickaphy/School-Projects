@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SubString-DatoKonverter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+55975e842699d32d2edfc41d8bf8e89ccba56c30")]
 [assembly: System.Reflection.AssemblyProductAttribute("SubString-DatoKonverter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SubString-DatoKonverter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

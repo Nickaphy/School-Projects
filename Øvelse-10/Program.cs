@@ -18,7 +18,7 @@
             string inputString = Console.ReadLine();
 
             if (int.TryParse(inputString, out int inputInt))
-            {
+            
                 foreach (int gammelNum in gammelSkala)
                 {
                     if (inputInt == gammelNum)

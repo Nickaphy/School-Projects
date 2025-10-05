@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GyldigDato")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+22f3194dd7a9da6623c75b6479df8d9a021560cf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+55975e842699d32d2edfc41d8bf8e89ccba56c30")]
 [assembly: System.Reflection.AssemblyProductAttribute("GyldigDato")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GyldigDato")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

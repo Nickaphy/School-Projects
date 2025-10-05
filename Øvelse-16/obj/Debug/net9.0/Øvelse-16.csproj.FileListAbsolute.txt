@@ -1,0 +1,15 @@
+/home/nicklas/MyProjects/Øvelse-16/bin/Debug/net9.0/Øvelse-16
+/home/nicklas/MyProjects/Øvelse-16/bin/Debug/net9.0/Øvelse-16.deps.json
+/home/nicklas/MyProjects/Øvelse-16/bin/Debug/net9.0/Øvelse-16.runtimeconfig.json
+/home/nicklas/MyProjects/Øvelse-16/bin/Debug/net9.0/Øvelse-16.dll
+/home/nicklas/MyProjects/Øvelse-16/bin/Debug/net9.0/Øvelse-16.pdb
+/home/nicklas/MyProjects/Øvelse-16/obj/Debug/net9.0/Øvelse-16.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicklas/MyProjects/Øvelse-16/obj/Debug/net9.0/Øvelse-16.AssemblyInfoInputs.cache
+/home/nicklas/MyProjects/Øvelse-16/obj/Debug/net9.0/Øvelse-16.AssemblyInfo.cs
+/home/nicklas/MyProjects/Øvelse-16/obj/Debug/net9.0/Øvelse-16.csproj.CoreCompileInputs.cache
+/home/nicklas/MyProjects/Øvelse-16/obj/Debug/net9.0/Øvelse-16.sourcelink.json
+/home/nicklas/MyProjects/Øvelse-16/obj/Debug/net9.0/Øvelse-16.dll
+/home/nicklas/MyProjects/Øvelse-16/obj/Debug/net9.0/refint/Øvelse-16.dll
+/home/nicklas/MyProjects/Øvelse-16/obj/Debug/net9.0/Øvelse-16.pdb
+/home/nicklas/MyProjects/Øvelse-16/obj/Debug/net9.0/Øvelse-16.genruntimeconfig.cache
+/home/nicklas/MyProjects/Øvelse-16/obj/Debug/net9.0/ref/Øvelse-16.dll

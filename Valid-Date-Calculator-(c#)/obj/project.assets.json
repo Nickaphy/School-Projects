@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/nicklas/Projects/Personal/Learning-Projects-/c#/Valid-Date-Calculator-(c#)/GyldigDato.csproj",
+      "projectUniqueName": "/home/nicklas/MyProjects/Valid-Date-Calculator-(c#)/GyldigDato.csproj",
       "projectName": "GyldigDato",
-      "projectPath": "/home/nicklas/Projects/Personal/Learning-Projects-/c#/Valid-Date-Calculator-(c#)/GyldigDato.csproj",
+      "projectPath": "/home/nicklas/MyProjects/Valid-Date-Calculator-(c#)/GyldigDato.csproj",
       "packagesPath": "/home/nicklas/.nuget/packages/",
-      "outputPath": "/home/nicklas/Projects/Personal/Learning-Projects-/c#/Valid-Date-Calculator-(c#)/obj/",
+      "outputPath": "/home/nicklas/MyProjects/Valid-Date-Calculator-(c#)/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/nicklas/.nuget/NuGet/NuGet.Config"

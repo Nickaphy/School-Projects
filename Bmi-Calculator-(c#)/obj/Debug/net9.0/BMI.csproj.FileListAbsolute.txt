@@ -40,3 +40,4 @@ C:/Users/nickd/Desktop/Skole opgaver/BMI/obj/Debug/net9.0/ref/BMI.dll
 /home/nicklas/MyProjects/Bmi-Calculator-(c#)/obj/Debug/net9.0/BMI.pdb
 /home/nicklas/MyProjects/Bmi-Calculator-(c#)/obj/Debug/net9.0/BMI.genruntimeconfig.cache
 /home/nicklas/MyProjects/Bmi-Calculator-(c#)/obj/Debug/net9.0/ref/BMI.dll
+/home/nicklas/MyProjects/Bmi-Calculator-(c#)/obj/Debug/net9.0/BMI.sourcelink.json
