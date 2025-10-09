@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Vare-Rumfang")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1df431117ac83c7adb16340df064fc42977aabaf")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cc0c41b83945e6a378c005a0595eaebd5de3fb63")]
 [assembly: System.Reflection.AssemblyProductAttribute("Vare-Rumfang")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Vare-Rumfang")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
