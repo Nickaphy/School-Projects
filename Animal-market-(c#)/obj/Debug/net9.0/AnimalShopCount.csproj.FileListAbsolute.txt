@@ -41,3 +41,4 @@
 /home/nicklas/MyProjects/Animal-market-(c#)/obj/Debug/net9.0/AnimalShopCount.pdb
 /home/nicklas/MyProjects/Animal-market-(c#)/obj/Debug/net9.0/AnimalShopCount.genruntimeconfig.cache
 /home/nicklas/MyProjects/Animal-market-(c#)/obj/Debug/net9.0/ref/AnimalShopCount.dll
+/home/nicklas/MyProjects/Animal-market-(c#)/obj/Debug/net9.0/AnimalShopCount.sourcelink.json

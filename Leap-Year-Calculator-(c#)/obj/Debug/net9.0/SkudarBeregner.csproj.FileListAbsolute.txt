@@ -26,3 +26,4 @@
 /home/nicklas/MyProjects/Leap-Year-Calculator-(c#)/obj/Debug/net9.0/SkudarBeregner.pdb
 /home/nicklas/MyProjects/Leap-Year-Calculator-(c#)/obj/Debug/net9.0/SkudarBeregner.genruntimeconfig.cache
 /home/nicklas/MyProjects/Leap-Year-Calculator-(c#)/obj/Debug/net9.0/ref/SkudarBeregner.dll
+/home/nicklas/MyProjects/Leap-Year-Calculator-(c#)/obj/Debug/net9.0/SkudarBeregner.sourcelink.json

@@ -1,0 +1,15 @@
+/home/nicklas/MyProjects/Vare-Rumfang/obj/Debug/net9.0/Vare-Rumfang.GeneratedMSBuildEditorConfig.editorconfig
+/home/nicklas/MyProjects/Vare-Rumfang/obj/Debug/net9.0/Vare-Rumfang.AssemblyInfoInputs.cache
+/home/nicklas/MyProjects/Vare-Rumfang/obj/Debug/net9.0/Vare-Rumfang.AssemblyInfo.cs
+/home/nicklas/MyProjects/Vare-Rumfang/obj/Debug/net9.0/Vare-Rumfang.csproj.CoreCompileInputs.cache
+/home/nicklas/MyProjects/Vare-Rumfang/obj/Debug/net9.0/Vare-Rumfang.sourcelink.json
+/home/nicklas/MyProjects/Vare-Rumfang/bin/Debug/net9.0/Vare-Rumfang
+/home/nicklas/MyProjects/Vare-Rumfang/bin/Debug/net9.0/Vare-Rumfang.deps.json
+/home/nicklas/MyProjects/Vare-Rumfang/bin/Debug/net9.0/Vare-Rumfang.runtimeconfig.json
+/home/nicklas/MyProjects/Vare-Rumfang/bin/Debug/net9.0/Vare-Rumfang.dll
+/home/nicklas/MyProjects/Vare-Rumfang/bin/Debug/net9.0/Vare-Rumfang.pdb
+/home/nicklas/MyProjects/Vare-Rumfang/obj/Debug/net9.0/Vare-Rumfang.dll
+/home/nicklas/MyProjects/Vare-Rumfang/obj/Debug/net9.0/refint/Vare-Rumfang.dll
+/home/nicklas/MyProjects/Vare-Rumfang/obj/Debug/net9.0/Vare-Rumfang.pdb
+/home/nicklas/MyProjects/Vare-Rumfang/obj/Debug/net9.0/Vare-Rumfang.genruntimeconfig.cache
+/home/nicklas/MyProjects/Vare-Rumfang/obj/Debug/net9.0/ref/Vare-Rumfang.dll
