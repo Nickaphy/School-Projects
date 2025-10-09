@@ -58,12 +58,17 @@ class Program
         };
 
         double totalRumfang = 0;
+        double gennemsnitsRumfang = 0;
+
         foreach (var v in varer)
         {
             Console.WriteLine($"{v.antal} stk {v.navn} Rumfang: {v.BeregnRumfang():F2} m³");
             totalRumfang += v.BeregnRumfang();
         }
+        gennemsnitsRumfang += totalRumfang / varer.Length;
+
         Console.ForegroundColor = ConsoleColor.Green;
         Console.WriteLine($"Total rumfang: {totalRumfang:F2} m³");
+        Console.WriteLine($"Gennemsnits rumfang: {gennemsnitsRumfang:F2} m³");
     }
 }
